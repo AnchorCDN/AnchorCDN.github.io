@@ -1,5 +1,4 @@
 CONFIDENTIAL LICENSE AGREEMENT FOR ANCHOR
-Version 1.0 | Effective Date: [Date]
 1. PURPOSE OF THE AGREEMENT
 
 Anchor ("the Service") is a decentralized file-sharing platform enabling users to exchange digital materials. The Service Administration ("Admin") does not monitor, moderate, or verify content uploaded by users.
