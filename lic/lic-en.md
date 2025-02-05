@@ -46,3 +46,7 @@ You agree to indemnify and hold harmless the Admin from:
 7.2. If any provision is deemed invalid, the remainder of the Agreement remains enforceable.
 
 WARNING: Anchor does not endorse or condone illegal activity. Use of the Service may violate laws in your jurisdiction. You use Anchor solely at your own risk.
+
+Logo:
+FONT - OLD ENGLISH FIVE
+ICON - https://www.flaticon.com/ru/free-icon/anchor_7735046
